@@ -25,6 +25,8 @@ gem 'jbuilder', '~> 2.0'
 
 gem 'font-awesome-rails'
 
+gem 'simple_form'
+
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use ActiveModel has_secure_password
